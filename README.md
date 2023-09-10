@@ -23,6 +23,7 @@ This is an online book store developed using Spring MVC
 ![Available](https://github.com/SahilShaikh25/BookStore/assets/75927311/aa91a788-d2cd-48d9-9572-d4e248f69dd8)
 
 - Search bar 🔎
+
 ![searchbar](https://github.com/SahilShaikh25/BookStore/assets/75927311/70e44dbc-c99b-4909-a406-cfda660b7e43)
 
 ![search](https://github.com/SahilShaikh25/BookStore/assets/75927311/98209edb-ec81-4c09-9cc8-09b9a0cad4e1)
